@@ -1,0 +1,22 @@
+{
+  "alunos": [
+    {
+      "id": "1",
+      "name": "GABRIEL MORAIS",
+      "date_bitrh": "1997/10/26",
+      "name_responsible": "GABRIEL R MORAIS",
+      "phone_responsible": "(61) 985593550",
+      "qr_code": "",
+      "present": false
+    },
+    {
+      "id": "1",
+      "name": "JOAO BISPO",
+      "date_bitrh": "2000/10/10",
+      "name_responsible": "GABRIELLA R MORAIS",
+      "phone_responsible": "(61) 985593550",
+      "qr_code": "",
+      "present": false
+    }
+  ]
+}
